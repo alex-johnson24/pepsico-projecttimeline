@@ -1,0 +1,9 @@
+﻿table tbody tr td {
+    vertical-align: middle; /* Aligns content vertically in the middle */
+    text-align: left; /* Optional: left aligns text */
+}
+
+#editData {
+    color: white;
+    background-color: gray;
+}
